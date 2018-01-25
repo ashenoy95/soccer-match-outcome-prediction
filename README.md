@@ -1,2 +1,3 @@
-# soccer-match-outcome-prediction
-Exploratory Data Analysis
+# Soccer Match Outcome Prediction
+
+Harnessing the potential of Exploratory Data Analysis to predict the outcome of soccer matches in the English Premier League.
